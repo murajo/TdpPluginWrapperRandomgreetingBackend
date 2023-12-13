@@ -1,0 +1,1 @@
+export { RandomGreetingBackendPlugin as plugin } from './RandomGreetingBackendPlugin'
